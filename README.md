@@ -16,7 +16,7 @@ focusmouse is a utility that allows you to quickly move your mouse cursor to the
 ### Windows Users
 
 1. Go to the [Releases](https://github.com/alexpervushin/focusmouse/releases) page.
-2. Download the latest `WindowCenterMouse.exe` file.
+2. Download the latest `focusmouse.exe` file.
 3. Run the executable to start the application.
 
 ### For Developers
